@@ -1,20 +1,22 @@
-<!-- Header with animated greeting -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%2C+I%27m+YourName!&animation=fadeIn&color=gradient" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%2C%20I'm%20Shaeel!&fontAlign=50&fontColor=ffffff&fontSize=30&color=gradient" />
 </p>
 
-<!-- Social links -->
+<!-- Social Icons -->
 <p align="center">
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/YourLink"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://github.com/Shaeel-0005"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👋 About Me
+# 👨‍💻 About Me
+
 ```yaml
-name: Your Name
-currently: 💼 Position at Company (e.g., Software Engineer at Acme)
-learning: 🚀 What you're exploring now (e.g., ML, cloud-native apps)
-interested_in: [Open Source, Community Building, Backend Dev]
+Name: Shaeel
+Title: Python & AI Enthusiast | Full Stack Explorer | Research-Driven Developer
+Location: Pakistan
+Interests: AI/ML, Computer Vision, Backend APIs, Optimization, Systems Engineering
+Currently: Building real-world ML tools & contributing to high-impact open-source projects
