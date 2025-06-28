@@ -1,7 +1,9 @@
 <!-- Header -->
+<!-- 🔥 Gradient Red Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%2C%20I'm%20Shaeel!&fontAlign=50&fontColor=ffffff&fontSize=30&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4E50,FC913A&height=200&section=header&text=Hi%2C%20I'm%20Shaeel!&fontSize=40&fontColor=ffffff&fontAlign=50" />
 </p>
+
 
 <!-- Social Icons -->
 <p align="center">
