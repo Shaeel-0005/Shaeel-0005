@@ -24,4 +24,4 @@ Focused on building clean, impactful software with purpose.
 - GitHub: you’re already here 🙂
 - Email: [shaeel.shahid.se@gmail.com](mailto:shaeel.shahid.se@gmail.com)
 
-> *Building with intention. Learning with discipline. Trusting Allah and the process.*
+> *Building with intention. Learning with discipline. Trusting Allah*
