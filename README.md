@@ -8,8 +8,8 @@ Years of web dev experience fuel my passion for crafting inclusive, accessible s
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [shaheelmalik905@gmail.com](mailto:shaheelmalik905@gmail.com)
-* 🧠  I'm learning GSAP
-* 🤝  I'm open to collaborating on non-Ai projects for now
+* 🧠  I'm learning Ai/ML
+
 * ⚡  Just a guy who quietly turns caffeine into clean code, pixels into purpose, and ideas into smooth digital journeys. Sometimes React, sometimes WordPress — always with intention. If it looks simple, that’s the point.
 
 ### Skills
